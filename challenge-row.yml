@@ -1,0 +1,42 @@
+name: Challenge or reword a row
+description: Disagree with, improve, or remove an existing statement
+title: "[Challenge] "
+labels: ["proposal", "challenge"]
+body:
+  - type: dropdown
+    id: row
+    attributes:
+      label: Which row?
+      options:
+        - Understanding the risk of each change over expanding coverage
+        - Deciding with evidence over trusting green indicators
+        - Sharing context with people and agents over concentrating knowledge in a few
+        - Learning from causes over treating symptoms
+        - Using AI to understand over using AI to produce more
+        - Being accountable for outcomes over being accountable for activity
+        - The definition of Quality Intelligence
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What are you proposing?
+      options:
+        - Reword it
+        - Remove it
+        - Merge it with another row
+        - I disagree (let's discuss)
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Your proposal and reasoning
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: How should we credit you if accepted?
+      placeholder: Name, role, company (optional)

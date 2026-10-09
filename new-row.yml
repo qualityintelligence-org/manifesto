@@ -1,0 +1,29 @@
+name: Propose a new row
+description: Suggest a new "We value ___ over ___" statement
+title: "[New row] "
+labels: ["proposal", "new-row"]
+body:
+  - type: input
+    id: left
+    attributes:
+      label: We value...
+      placeholder: e.g. Understanding the risk of each change
+    validations:
+      required: true
+  - type: input
+    id: right
+    attributes:
+      label: ...over
+      placeholder: e.g. expanding coverage
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does this matter?
+      description: A real example or story makes your proposal stronger.
+  - type: input
+    id: credit
+    attributes:
+      label: How should we credit you if accepted?
+      placeholder: Name, role, company (optional)
