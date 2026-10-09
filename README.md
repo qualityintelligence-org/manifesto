@@ -2,6 +2,8 @@
 
 > **Status: v0.9, open draft.** Read it, challenge it, help us write v1.0.
 > Target date for v1.0: **November 2026**. Everyone whose contribution is accepted becomes a co-author.
+>
+> ✍️ **[Sign the manifesto at qimanifesto.org](https://qimanifesto.org)**: it takes less than a minute.
 
 AI is increasing our capacity to produce software much faster than our capacity to understand it.
 **Quality Intelligence is how we close that gap.**
@@ -44,26 +46,36 @@ AI can bring the intelligence. Only people can bring the judgment. Trust needs b
 
 ---
 
-## How to contribute
+## Join in 3 steps
 
-You don't need to be a GitHub expert, or even have an account.
+### 01 · Sign the manifesto
 
-1. **No GitHub account?** Leave your input here: https://qualityintelligencemanifesto.org/. 
-2. **Have a GitHub account?** Open an [issue](../../issues/new/choose) to propose or challenge a line, or join the conversation in [Discussions](../../discussions).
-3. **Want to edit the text directly?** Open a pull request on `MANIFESTO.md`.
+Go to **[qimanifesto.org](https://qimanifesto.org)** and add your name. It takes less than a minute.
 
-You can:
+### 02 · Contribute on GitHub
 
-- **Fill in the blank row:** what do *you* value over what?
-- **Challenge a row:** is something wrong, missing or badly worded?
+Fill in the blank row, challenge a row, or improve an existing one.
+
+- **Quickest:** comment on the pinned discussion **["Fill in the blank row"](../../discussions)**. One sentence is enough.
+- **A concrete proposal:** [open an issue](../../issues/new/choose) using a template.
+- **Edit the text:** open a pull request on `MANIFESTO.md`.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
+### 03 · Share with your network
+
+Invite colleagues and people you respect to collaborate. Use **#QualityIntelligence** so we can follow the conversation.
+
 ---
 
-## Become a co-author
+## Signatories and co-authors
 
-Every person whose contribution is accepted into v1.0 will be listed in [CO-AUTHORS.md](CO-AUTHORS.md) and credited in the v1.0 release.
+| | How | Where you're listed |
+|---|---|---|
+| **Signatory** | Sign at [qimanifesto.org](https://qimanifesto.org) | Public list of signatories on the site |
+| **Co-author** | Your contribution is accepted into v1.0 | [CO-AUTHORS.md](CO-AUTHORS.md) and the v1.0 release |
+
+You can be both.
 
 ---
 
