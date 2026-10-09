@@ -27,7 +27,7 @@ Estamos descubriendo mejores formas de construir confianza en el software, haci�
 
 ### Qué entendemos por Quality Intelligence
 
-Quality Intelligence es la práctica y el marco de trabajo que conecta **sistemas**, **contexto** y **criterio humano** para entender el riesgo de cada cambio y decidir con confianza dónde invertir el esfuerzo.
+Quality Intelligence es la práctica que conecta **sistemas**, **contexto** y **criterio humano** para entender el riesgo de cada cambio y decidir con confianza dónde invertir el esfuerzo.
 
 La pregunta central de Quality en la era de la IA:
 
