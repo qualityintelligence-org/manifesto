@@ -56,7 +56,7 @@ Go to **[qimanifesto.org](https://qimanifesto.org)** and add your name. It takes
 
 Fill in the blank row, challenge a row, or improve an existing one.
 
-- **Quickest:** comment on the pinned discussion **["Fill in the blank row"](../../discussions)**. One sentence is enough.
+- **Quickest:** join the conversation in [Discussions](../../discussions).
 - **A concrete proposal:** [open an issue](../../issues/new/choose) using a template.
 - **Edit the text:** open a pull request on `MANIFESTO.md`.
 
