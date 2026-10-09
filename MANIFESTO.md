@@ -27,7 +27,7 @@ We are uncovering better ways of building trust in software by doing it and by h
 
 ### What we mean by Quality Intelligence
 
-Quality Intelligence is the practice and framework of connecting **systems**, **context** and **human judgment** to understand the risk of every change, and to decide with confidence where to invest effort.
+Quality Intelligence is the practice of connecting **systems**, **context** and **human judgment** to understand the risk of every change, and to decide with confidence where to invest effort.
 
 The central question of quality in the age of AI:
 
