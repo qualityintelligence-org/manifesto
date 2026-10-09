@@ -12,10 +12,9 @@ Thank you for helping shape v1.0. Every contribution counts, from a single sente
 
 ## Three ways to participate
 
-### 1. No GitHub account (easiest)
+### 1. Sign the manifesto (easiest)
 
-Use this form: https://qualityintelligencemanifesto.org/
-Leave your name the way you want it to appear if your contribution is accepted.
+Go to **[qimanifesto.org](https://qimanifesto.org)** and add your name to the signatories. It takes less than a minute, and you don't need a GitHub account.
 
 ### 2. Ideas and debate → Issues and Discussions
 
@@ -52,6 +51,8 @@ Every row follows the pattern **"[what we value more] over [what still has value
 - Accepted changes are recorded in [CHANGELOG.md](CHANGELOG.md).
 
 ## Becoming a co-author
+
+Signing the manifesto at [qimanifesto.org](https://qimanifesto.org) makes you a **signatory**. Contributing makes you a **co-author**.
 
 If your contribution is accepted, through the form, an issue, a discussion or a pull request, you will be added to [CO-AUTHORS.md](CO-AUTHORS.md) and credited in the v1.0 release.
 
