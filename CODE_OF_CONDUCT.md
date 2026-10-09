@@ -26,7 +26,7 @@ We want participation in this project to be a welcoming, respectful and harassme
 
 Maintainers may edit, hide or remove comments, issues and pull requests that don't follow this code, and may temporarily or permanently block contributors who repeatedly do so.
 
-To report a problem, contact the maintainers at **[CONTACT_EMAIL]**. Reports will be handled confidentially.
+To report a problem, contact the maintainers at sofia@abstracta.us. Reports will be handled confidentially.
 
 ## Attribution
 
