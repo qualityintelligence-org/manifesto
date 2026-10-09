@@ -1,9 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  # Uncomment once the form exists (an invalid URL breaks this file):
-  # - name: No GitHub experience? Use the form
-  #   url: https://REPLACE-WITH-FORM-URL
-  #   about: Leave your input in one sentence, no GitHub needed.
+  - name: Sign the manifesto
+    url: https://qimanifesto.org
+    about: Add your name to the signatories. 
   - name: Open conversation
-    url: https://github.com/qualityintelligencemanifesto/manifesto/discussions
+    url: https://github.com/qualityintelligence-org/manifesto/discussions
     about: Questions, early ideas and debate.
