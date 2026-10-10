@@ -14,7 +14,7 @@ Thank you for helping shape v1.0. Every contribution counts, from a single sente
 
 ### 1. Sign the manifesto (easiest)
 
-Go to **[qimanifesto.org](https://qimanifesto.org)** and add your name to the signatories. It takes less than a minute, and you don't need a GitHub account.
+Go to **[qimanifesto.org](https://qimanifesto.org)** and add your name to the signatories.
 
 ### 2. Ideas and debate → Issues and Discussions
 
@@ -54,9 +54,9 @@ Every row follows the pattern **"[what we value more] over [what still has value
 
 Signing the manifesto at [qimanifesto.org](https://qimanifesto.org) makes you a **signatory**. Contributing makes you a **co-author**.
 
-If your contribution is accepted, through the form, an issue, a discussion or a pull request, you will be added to [CO-AUTHORS.md](CO-AUTHORS.md) and credited in the v1.0 release.
+If your contribution is accepted, through the website form, an issue, a discussion or a pull request, you will be added to [CO-AUTHORS.md](CO-AUTHORS.md) and credited in the v1.0 release.
 
-To be credited, make sure we know the name you want to appear (and optionally your company, role or link).
+To be credited, make sure we know the name you want to appear (and optionally your company or role).
 
 ## Language
 
