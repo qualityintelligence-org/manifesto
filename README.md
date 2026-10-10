@@ -14,8 +14,6 @@ AI is increasing our capacity to produce software much faster than our capacity 
 
 **Quality Intelligence (QI)** is the practice and framework of connecting **systems**, **context** and **human judgment** to understand the risk of every change, and to decide with confidence where to invest effort.
 
-*Testing tells us what happened. Quality Intelligence tells us what it means and what to do.*
-
 QI connects three sources of understanding:
 
 | | What it tells us | Examples |
