@@ -22,6 +22,7 @@ We are uncovering better ways of building trust in software by doing it and by h
 
 **Being accountable for outcomes** over being accountable for activity
 
+**Making assumptions visible** over embedding them in automation
 
 ---
 
