@@ -22,6 +22,8 @@ Estamos descubriendo mejores formas de construir confianza en el software, haci√
 
 **Ser responsables de lo hecho** por sobre ser responsables del hacer
 
+**Mejorar c√≥mo lo aplicamos con cada uso** por sobre aplicarlo siempre igual
+
 
 ---
 
