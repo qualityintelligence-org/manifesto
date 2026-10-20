@@ -22,6 +22,8 @@ We are uncovering better ways of building trust in software by doing it and by h
 
 **Being accountable for outcomes** over being accountable for activity
 
+**Improving how we apply it with every use** over applying it the same way every time
+
 
 ---
 
